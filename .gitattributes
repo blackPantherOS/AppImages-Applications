@@ -1,0 +1,5 @@
+Apps/brackets-1.9.0-17313.AppImage filter=lfs diff=lfs merge=lfs -text
+Apps/Kaku-1.8.5-ia32.AppImage filter=lfs diff=lfs merge=lfs -text
+Apps/Rambox-0.5.9-ia32.AppImage filter=lfs diff=lfs merge=lfs -text
+Apps/sylk-electron-1.2.0-ia32.AppImage filter=lfs diff=lfs merge=lfs -text
+Apps/Telegram.AppImage filter=lfs diff=lfs merge=lfs -text
